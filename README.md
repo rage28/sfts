@@ -18,7 +18,7 @@ Server
 Client
 ------
 
-* It takes one argument and is mandatory. The parameter should a valid IP address where the server is hosted. The usage syntax is '__./client <IP Address\>__'
+* It takes one argument and is mandatory. The parameter should a valid IP address where the server is hosted. The usage syntax is '__./client \<IP Address\>__'
 * The port cannot be changed and is always __50000__
 * When the client connects to the server it receives a list of files the server is hosting and the user can then enter a valid filename from the list for the server to send
 * The files successfully received will be stored in the '__recv__' directory
